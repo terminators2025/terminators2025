@@ -1,1 +1,1 @@
-![机器人](robot2.png)
+![机器人](robot.png)
