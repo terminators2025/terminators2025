@@ -1,23 +1,13 @@
-
-
-<!--
-**terminators2025/terminators2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- 奔跑小人动画 -->
-  <circle cx="20" cy="50" r="10" fill="#3498db">
-    <animate attributeName="cx" from="20" to="180" dur="1s" repeatCount="indefinite"/>
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 身体 -->
+  <circle cx="50" cy="50" r="15" fill="#e74c3c">
+    <animate attributeName="cx" values="50;350;50" dur="2s" repeatCount="indefinite"/>
   </circle>
+  
+  <!-- 腿部动画 -->
+  <line x1="45" y1="65" x2="40" y2="80" stroke="#2c3e50" stroke-width="3">
+    <animate attributeName="x1" values="45;345;45" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="40;340;40" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="80;70;80" dur="0.5s" repeatCount="indefinite"/>
+  </line>
 </svg>
