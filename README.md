@@ -1,13 +1,11 @@
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- 身体 -->
-  <circle cx="50" cy="50" r="15" fill="#e74c3c">
-    <animate attributeName="cx" values="50;350;50" dur="2s" repeatCount="indefinite"/>
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 机器人头部 -->
+  <rect x="150" y="50" width="100" height="80" rx="10" fill="#2c3e50"/>
+  <!-- 眼睛动画 -->
+  <circle cx="170" cy="70" r="8" fill="#00ff88">
+    <animate attributeName="fill" values="#00ff88;#ff0066;#00ff88" dur="2s" repeatCount="indefinite"/>
   </circle>
-  
-  <!-- 腿部动画 -->
-  <line x1="45" y1="65" x2="40" y2="80" stroke="#2c3e50" stroke-width="3">
-    <animate attributeName="x1" values="45;345;45" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="40;340;40" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="y2" values="80;70;80" dur="0.5s" repeatCount="indefinite"/>
-  </line>
+  <circle cx="230" cy="70" r="8" fill="#00ff88">
+    <animate attributeName="fill" values="#00ff88;#ff0066;#00ff88" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
 </svg>
