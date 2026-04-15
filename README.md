@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════════ TYPING ANIMATION ══════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=5BA4CF&center=true&vCenter=true&random=false&width=650&lines=🤖+Embodied+AI+%7C+VLA+Platform+%7C+Sim-to-Real;🧠+From+Simulation+to+Physical+Intelligence;🌐+Open+Source+%7C+ZTE+%7C+Shenzhen" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=5BA4CF&center=true&vCenter=true&random=false&width=650&lines=🤖+Embodied+AI+%7C+VLA+Platform+%7C+Sim-to-Real;🧠+From+Simulation+to+Physical+Intelligence;🌐+Open+Source+%7C+ZTE+%7C+Shenzhen"/>
 </div>
 
 <br/>
@@ -34,13 +34,12 @@
 Team       : ZTE Terminators
 Location   : Shenzhen, China · ZTE Corporation
 Mission    : General Embodied Intelligence
-Flagship   : RealMirror VLA Platform ⭐ 770+
+Flagship   : RealMirror Platform
 Focus      :
   - Vision-Language-Action (VLA) Models
   - Sim-to-Real Transfer (IsaacSim)
   - Open-Source Robotics Ecosystem
   - Hand Tracking & Teleoperation
-Status     : Actively Building the Future 🚀
 ```
 
 <br clear="right"/>
@@ -59,15 +58,6 @@ Status     : Actively Building the Future 🚀
 | [🌱 **Seed2Scale**](https://github.com/terminators2025/Seed2Scale.github.io) | Scaling embodied intelligence from seed models | ![Stars](https://img.shields.io/github/stars/terminators2025/Seed2Scale.github.io?style=flat-square&color=a8c8e8) |
 
 </div>
-
-<div align="center">
-
-[![RealMirror Card](https://github-readme-stats.vercel.app/api/pin/?username=terminators2025&repo=RealMirror&theme=default&hide_border=true&bg_color=ffffff&title_color=5ba4cf&text_color=586069&icon_color=2d6a9f&border_color=e0e6ed)](https://github.com/terminators2025/RealMirror)
-&nbsp;
-[![Hand Tracking Card](https://github-readme-stats.vercel.app/api/pin/?username=terminators2025&repo=RealMirror-hand-tracking-application&theme=default&hide_border=true&bg_color=ffffff&title_color=5ba4cf&text_color=586069&icon_color=2d6a9f&border_color=e0e6ed)](https://github.com/terminators2025/RealMirror-hand-tracking-application)
-
-</div>
-
 ---
 
 <!-- ══════════════════════════════ TECH STACK ═════════════════════════════ -->
@@ -95,39 +85,6 @@ Status     : Actively Building the Future 🚀
 
 ---
 
-<!-- ════════════════════════════ GITHUB STATS ═════════════════════════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=terminators2025&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=5ba4cf&text_color=586069&icon_color=2d6a9f&border_color=e0e6ed&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminators2025&theme=default&hide_border=true&bg_color=ffffff&title_color=5ba4cf&text_color=586069&border_color=e0e6ed&layout=compact&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=terminators2025&theme=default&hide_border=true&background=ffffff&ring=5ba4cf&fire=a8c8e8&currStreakLabel=5ba4cf&sideLabels=8899a6&dates=b0bec5&stroke=e0e6ed" alt="GitHub Streak"/>
-</div>
-
----
-
-<!-- ═══════════════════════════ ACTIVITY GRAPH ════════════════════════════ -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminators2025&bg_color=ffffff&color=5ba4cf&line=2d6a9f&point=5ba4cf&area=true&area_color=dce9f5&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-<!-- ══════════════════════════ TROPHIES ═══════════════════════════════════ -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=terminators2025&theme=flat&no-frame=true&no-bg=false&margin-w=6&column=7&title_color=5ba4cf" alt="Trophies"/>
-</div>
-
----
-
 <!-- ═══════════════════════════ SNAKE ANIMATION ═══════════════════════════ -->
 ## 🐍 Contribution Snake
 
@@ -143,9 +100,6 @@ Status     : Actively Building the Future 🚀
 
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 <div align="center">
-
-### 💬 *"The best way to predict the future is to build it."*
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-terminators2025-e0e6ed?style=for-the-badge&logo=github&logoColor=2d6a9f)](https://github.com/terminators2025)
