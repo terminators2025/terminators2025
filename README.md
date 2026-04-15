@@ -33,10 +33,10 @@ Focus      :
   - Sim-to-Real Transfer (IsaacSim)
   - Open-Source Robotics Ecosystem
   - Hand Tracking & Teleoperation
-```
+</pre>
 
 <br clear="right"/>
-</pre>
+
 
 <!-- ══════════════════════════ FEATURED PROJECTS ══════════════════════════ -->
 ## 🚀 Featured Projects
