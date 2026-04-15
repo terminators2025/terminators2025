@@ -56,13 +56,15 @@ Focus      :
 
 <div align="center">
 
-**🧠 AI / Robotics**
+**🤖 AI / Robotics**
 
-![Python](https://img.shields.io/badge/Python-5BA4CF?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-8899A6?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-2D6A9F?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-A8C8E8?style=for-the-badge&logo=ros&logoColor=2d6a9f)
 ![IsaacSim](https://img.shields.io/badge/IsaacSim-E0E6ED?style=for-the-badge&logo=nvidia&logoColor=2d6a9f)
+![IsaacLab](https://img.shields.io/badge/IsaacLab-E0E6ED?style=for-the-badge&logo=nvidia&logoColor=2d6a9f)
+![IsaacGym](https://img.shields.io/badge/IsaacGym-DCE9F5?style=for-the-badge&logo=nvidia&logoColor=2d6a9f)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-A8C8E8?style=for-the-badge&logo=google&logoColor=2d6a9f)
 
 **🌐 Development**
 
