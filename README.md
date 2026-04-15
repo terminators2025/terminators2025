@@ -89,14 +89,18 @@ Focus      :
 </div>
 
 ---
+
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 <div align="center">
+
+### 💬 *"The best way to predict the future is to build it."*
+
 <br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-terminators2025-e0e6ed?style=for-the-badge&logo=github&logoColor=2d6a9f)](https://github.com/terminators2025)
 
 </div>
 
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ba4cf,50:a8c8e8,100:dce9f5&height=120&section=footer" width="100%"/>
 </div>
