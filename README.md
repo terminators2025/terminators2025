@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dce9f5,50:ffffff,100:5ba4cf&height=220&section=header&text=ZTE%20Terminators&fontSize=52&fontColor=2d6a9f&animation=fadeIn&fontAlignY=38&desc=Driving%20Force%20for%20General%20Embodied%20Intelligence&descAlignY=58&descSize=15&descColor=8899a6" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════ TYPING ANIMATION ══════════════════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=5BA4CF&center=true&vCenter=true&random=false&width=650&lines=🤖+Embodied+AI+%7C+VLA+Platform+%7C+Sim-to-Real;🧠+From+Simulation+to+Physical+Intelligence;🌐+Open+Source+%7C+ZTE+%7C+Shenzhen"/>
-</div>
-
-<br/>
-
 <!-- ════════════════════════════ BADGES ROW ══════════════════════════════ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=terminators2025&style=for-the-badge&color=5ba4cf&label=PROFILE+VIEWS" alt="Profile Views"/>
