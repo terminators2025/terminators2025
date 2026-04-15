@@ -51,7 +51,6 @@ Focus      :
 | [🌱 **Seed2Scale**](https://github.com/terminators2025/Seed2Scale.github.io) | Scaling embodied intelligence from seed models | ![Stars](https://img.shields.io/github/stars/terminators2025/Seed2Scale.github.io?style=flat-square&color=a8c8e8) |
 
 </div>
----
 
 <!-- ══════════════════════════════ TECH STACK ═════════════════════════════ -->
 ## 🛠️ Tech Stack
@@ -90,11 +89,9 @@ Focus      :
 </div>
 
 ---
-
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 <div align="center">
 <br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-terminators2025-e0e6ed?style=for-the-badge&logo=github&logoColor=2d6a9f)](https://github.com/terminators2025)
 
 </div>
