@@ -23,7 +23,7 @@
 
 <img align="right" src="https://github.com/terminators2025/terminators2025/raw/main/robot2.png" width="380px" style="margin-left:20px"/>
 
-```yaml
+<pre>
 Team       : ZTE Terminators
 Location   : Shenzhen, China · ZTE Corporation
 Mission    : General Embodied Intelligence
@@ -36,8 +36,7 @@ Focus      :
 ```
 
 <br clear="right"/>
-
----
+</pre>
 
 <!-- ══════════════════════════ FEATURED PROJECTS ══════════════════════════ -->
 ## 🚀 Featured Projects
