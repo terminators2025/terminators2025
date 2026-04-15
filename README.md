@@ -96,6 +96,7 @@ Focus      :
 
 </div>
 
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ba4cf,50:a8c8e8,100:dce9f5&height=120&section=footer" width="100%"/>
 </div>
