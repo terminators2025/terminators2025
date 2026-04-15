@@ -21,7 +21,7 @@
 <!-- ════════════════════════════ ABOUT SECTION ═══════════════════════════ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Us
 
-<img align="right" src="https://github.com/terminators2025/terminators2025/raw/main/robot2.png" width="400px" style="margin-left:20px"/>
+<img align="right" src="https://github.com/terminators2025/terminators2025/raw/main/robot2.png" width="380px" style="margin-left:20px"/>
 
 ```yaml
 Team       : ZTE Terminators
