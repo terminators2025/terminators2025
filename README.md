@@ -46,8 +46,8 @@ Focus      :
 | Project | Description | Stars |
 |:-------:|:-----------:|:-----:|
 | [🤖 **RealMirror**](https://github.com/terminators2025/RealMirror) | Comprehensive open-source Embodied AI VLA Platform | ![Stars](https://img.shields.io/github/stars/terminators2025/RealMirror?style=flat-square&color=5ba4cf) |
-| [🖐️ **Hand Tracking**](https://github.com/terminators2025/RealMirror-hand-tracking-application) | Low-cost hand tracking via PICO & IsaacSim | ![Stars](https://img.shields.io/github/stars/terminators2025/RealMirror-hand-tracking-application?style=flat-square&color=8899a6) |
-| [🌱 **Seed2Scale**](https://github.com/terminators2025/Seed2Scale.github.io) | Scaling embodied intelligence from seed models | ![Stars](https://img.shields.io/github/stars/terminators2025/Seed2Scale.github.io?style=flat-square&color=a8c8e8) |
+| [🖐️ **Hand Tracking**](https://github.com/terminators2025/RealMirror/blob/main/docs/hand_tracking_quick_start.md) | Low-cost hand tracking via PICO & IsaacSim | ![Stars](https://img.shields.io/github/stars/terminators2025/RealMirror-hand-tracking-application?style=flat-square&color=8899a6) |
+| [🌱 **Seed2Scale**](https://github.com/terminators2025/Seed2Scale-Example) | Scaling embodied intelligence from seed models | ![Stars](https://img.shields.io/github/stars/terminators2025/Seed2Scale.github.io?style=flat-square&color=a8c8e8) |
 
 </div>
 
